@@ -10,4 +10,5 @@ langchain-huggingface
 langchain-core
 huggingface-hub
 python-dotenv
-Chroma 
+Chromadb 
+chromadb
