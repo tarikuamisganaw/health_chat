@@ -10,4 +10,4 @@ langchain-huggingface
 langchain-core
 huggingface-hub
 python-dotenv
-chroma
+Chroma 
